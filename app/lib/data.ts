@@ -6,6 +6,7 @@ import {
   InvoicesTable,
   LatestInvoiceRaw,
   Revenue,
+  totalCount,
 } from './definitions';
 import { formatCurrency } from './utils';
 
